@@ -4,9 +4,8 @@
 this API was developed for theVelops's internship selection process
 
 <b>#How to use</b> <br>
-First of all is necessary to have the <a href="https://nodejs.org/en/">node.js</a> and <a href="https://git-for-windows.github.io/">git bash</a> installed in your machine. Then you'll be able to clone this repository and run it. 
-In your terminal type the command -npm install, this will install the Node Package Manager wich helps to manage the js modules.
-The next steps are install the dependencies with npm install and type npm start to initiate the server.
+First of all is necessary to have the <a href="https://nodejs.org/en/">node.js</a> and <a href="https://git-for-windows.github.io/"> bash terminal</a> installed in your machine. Then you'll be able to clone this repository and run it. 
+In your terminal type the command -npm install, this will install the dependencies and after that, type npm start to initiate the server.
 For execute the tests and see how it's working you can use <a href="https://www.getpostman.com/">postman</a> and use the url http://localhost:3000/users because the server is hosted in the 3000 port. On postman is possible to test the routes GET, POST, PUT and DELETE avaliable in this API.
 
 <b>#References</b><br> 
